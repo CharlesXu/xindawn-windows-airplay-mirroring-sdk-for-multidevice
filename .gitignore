@@ -1,0 +1,22 @@
+Debug
+Release
+*.P
+*.o
+*.obj
+autotest
+*.filters
+*.sdf
+*.user
+*.suo
+*.ncb
+*.VC.db
+*.vcxproj.user
+.deps
+Pocket PC 2003 (ARMV4)
+Smartphone 2003 (ARMV4)
+CHSINT SDK For WinCE 6.0 (ARMV4I)
+Mini210-CE6-SDK (ARMV4I)
+build
+libs
+objs
+
